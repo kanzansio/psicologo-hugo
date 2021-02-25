@@ -92,3 +92,8 @@ a {
 .et-slide h1 {
     font-size: 22px;
   }}
+
+  .flex {
+    width: 80%;
+    height: 90%;
+  }
