@@ -46,7 +46,19 @@ a {
   position: fixed;
   top: 0;
 }
-
+.chem{
+  z-index: 1;
+  height:18em;
+  position:absolute;
+  right: 0;
+  bottom: 0;
+}
+.wrap{
+  z-index:2;
+}
+.et-hero-tabs h1 h2{
+  z-index:2;
+}
 .et-hero-tab {
   display: flex;
   justify-content: center;
