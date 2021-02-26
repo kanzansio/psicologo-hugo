@@ -38,18 +38,13 @@ a {
   bottom: 0;
   width: 100%;
   height: 70px;
-  min-height: -webkit-fill-available;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   background: #fff;
   z-index: 10;
-  -webkit-fill-available;
-  -webkit-backface-visibility: hidden;
 }
 .et-hero-tabs-container--top {
   position: fixed;
-  position: -webkit-fill-available;
   top: 0;
-  -webkit-fill-available;
 }
 
 .et-hero-tab {
