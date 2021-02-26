@@ -46,7 +46,9 @@ a {
 }
 .et-hero-tabs-container--top {
   position: fixed;
+  position: -webkit-fill-available;
   top: 0;
+  -webkit-fill-available;
 }
 
 .et-hero-tab {
