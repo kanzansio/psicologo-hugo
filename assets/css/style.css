@@ -137,5 +137,10 @@ a {
 }
 
 @media (max-width: 768px){
-
+  .wrap {
+    left: -20%;
+  }
+  .chem{
+    max-width: 53%;
+  }
 }
