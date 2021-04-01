@@ -3,7 +3,7 @@ class StickyNavigation {
 	constructor() {
 		this.currentId = null;
 		this.currentTab = null;
-		this.tabContainerHeight = 20;
+		this.tabContainerHeight = 70;
 		let self = this;
 		$('.et-hero-tab').click(function() { 
 			self.onTabClick(event, $(this)); 
